@@ -14,8 +14,7 @@ export default defineNuxtConfig({
     database: true,
     kv: true,
     blob: true,
-    cache: true,
-    projectKey: 'nuxthub-zrlo'
+    cache: true
   },
   nitro: {
     experimental: {
